@@ -1,0 +1,28 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/*.log
+
+# Backend
+backend/target/
+backend/node_modules/
+backend/uploads/
+backend/*.log
+backend/*.txt
+backend/*.mp4
+backend/.env
+
+# IDE / System
+.vscode/
+.idea/
+*.class
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Misc
+ports.txt
+test.js
+test_review.mp4
