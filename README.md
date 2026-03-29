@@ -4,6 +4,11 @@
 
 
 
+
+
+
+
+
 # Snapsaga - AI-Powered Video Research Platform 🚀
 
 **Snapsaga** is a premium full-stack research platform designed to transform customer review videos into actionable business intelligence. With a focus on modern aesthetics (Tech Noir) and powerful data visualization, it provides a seamless experience for both researchers and stakeholders.
